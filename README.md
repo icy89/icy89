@@ -23,8 +23,8 @@ Lab:          VMware · VirtualBox · AWS EC2 · Active Directory
 
 ### 📊 TryHackMe
 
-- **Top 5%** globally
-- **Rank** 105005 [MAGE][Level 0X9]
+- **Top 3%** globally
+- **Rank** 68236 [WIZARD][Level 0XA]
 - 🏆 1st Place Platinum League (Epic 0.8%)
 - 🏆 OWASP Top 10 (Rare 9.9%)
 - 🏆 Burped — All Burp Suite rooms completed (Rare 5.5%)
